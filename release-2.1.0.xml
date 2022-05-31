@@ -7,7 +7,7 @@
   <remote fetch="https://github.com/openembedded" name="oe"/>
   <remote fetch="https://github.com/analogdevicesinc" name="adigithub"/>
 
-  <project remote="yocto" revision="6ebb33bdaccaeadff0c85aab27acf35723df00d8" name="poky" path="sources/poky"/> <!-- dunfell revision -->
+  <project remote="yocto" revision="17f7402610138eb26f77c74764a3981825921eda" name="poky" path="sources/poky"/> <!-- dunfell revision -->
   <project remote="oe" revision="11eae114522a6befa06c7f4021a83bc016133543" name="meta-openembedded" path="sources/meta-openembedded"/> <!-- dunfell revision -->
   <project remote="yocto" revision="d21ded082c27959c8d617fd18da60b236d2ec62b" name="meta-arm" path="sources/meta-arm"/> <!-- dunfell revision -->
 
